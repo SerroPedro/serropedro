@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Serro 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroserronascimento@gmail.com)
 
 Atualmente estou trabalhando em um livro digital em HTML.
 - 🌱 Atualmente estou aprendendo front end: HTML, CSS, PHP e Java Script
